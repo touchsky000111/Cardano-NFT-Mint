@@ -24,8 +24,8 @@ To get started with the system it is first necessary to download the files.
 
 First cd into the directory where your node is running (cardano-my-node if you followed the CoinCashew guide) and then run the following commands:
 ```
-git clone https://github.com/ejane24/Cardano-NFT-Auto-Mint.git
-cd Cardano-NFT-Auto-Mint/
+git clone https://github.com/touchsky000111/Cardano-NFT-Mint.git
+cd Cardano-NFT-Mint/
 ls
 ```
 You should now see 3 files listed, the important one is process.sh.
